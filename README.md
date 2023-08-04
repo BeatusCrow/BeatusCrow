@@ -24,8 +24,3 @@ Until recently, I didn't do anything. And so I decided to do at least something 
 ### You can write to me here 👇
 
 <p align="left"> <a href="https://discord.com/users/718005429606547485" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/BeatusSilva" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
-
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/BeatusSilva"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BeatusSilva&stroke=3382ed&background=27272a&ring=14b8a6&fire=14b8a6&currStreakNum=3382ed&currStreakLabel=14b8a6&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
