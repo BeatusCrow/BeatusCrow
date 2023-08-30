@@ -1,14 +1,11 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=BeatusSilva&theme=onedark&column=7&theme=gruvbox&margin-w=15&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is BeatusSilva
-===================================================================================================================================
-
-I am a person who has recently started working on himself. In general, I'm greener than grass 🍀
-------------------------------------------------------------------------------------------------
-
-Until recently, I didn't do anything. And so I decided to do at least something useful. In general, I sit and understand what is here and how it works. You can ask various questions about my PR. In trying to answer them correctly, I will most likely find some new information ... For which I will be grateful to you
-
-### What I worked with 👇
+<div align="center">
+	<br>
+		<img src="good-times.svg" width="400px">
+	<br>
+</div>
+What I worked with 👇
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
