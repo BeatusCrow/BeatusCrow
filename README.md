@@ -1,5 +1,3 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=BeatusSilva&theme=onedark&column=7&theme=gruvbox&margin-w=15&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
 <div align="center">
 	<br>
 		<img src="good-times.svg" width="400px">
