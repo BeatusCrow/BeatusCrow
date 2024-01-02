@@ -22,4 +22,4 @@ What I worked with 👇
 
 ### You can write to me here 👇
 
-<p align="left"> <a href="https://discord.com/users/718005429606547485" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/1153000512325681183" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a></p>
